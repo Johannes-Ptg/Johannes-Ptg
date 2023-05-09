@@ -2,4 +2,4 @@
 - 👀 I’m interested in Social Data Science
 - 🌱 Mostly working with R and SQL
 - 💞️ I’m looking to collaborate on projects related to social media analysis of the sentiment towards COVID-19 vaccinations
-- 📫 How to reach me @yourstandardbot
+- 📫 How to reach me on Twitter @yourstandardbot
